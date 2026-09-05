@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "name": "AbstractFactory|",
+            "type": "class",
+            "extends": null,
+            "implements": [],
+            "attributes": [],
+            "methods": [
+                {
+                    "name": "| CreateProduct",
+                    "return_type": "void",
+                    "parameters": []
+                }
+            ]
+        }
+    ]
+}

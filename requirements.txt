@@ -1,0 +1,31 @@
+## Installation
+
+Python 3.10 is recommended.
+
+numpy
+pandas
+scipy
+opencv-python
+Pillow
+scikit-image
+scikit-learn
+torch
+torchvision
+transformers
+tokenizers
+sentencepiece
+ultralytics
+pytesseract
+matplotlib
+tqdm
+Tessera
+ct OCR must also be installed separately when running the OCR module.
+
+## Running the Framework
+
+Run the complete pipeline using:
+
+    python Run/Run.py
+
+Individual proposed modules and comparative experiments can also be executed
+independently from their corresponding directories.
